@@ -86,6 +86,8 @@ Traumatic brain injury and bipolar psychosis in the genomic psychiatry cohort Am
 
 ### Conference Abstracts
 - Matthew Dowling, Yuan Zhao, Il Memming Park. The Exponential Family Variational Kalman Filter for Real-time Neural Dynamics. In Computational and Systems Neuroscience (COSYNE), 2023.
+- Diego M. Arribas, Yuan Zhao and Il Memming Park. Framework to generate more realistic GLM spike trains. In Computational and Systems Neuroscience (COSYNE), 2021.
+- Matthew Dowling, Yuan Zhao, Il Memming Park. NP-GLM: Nonparametric GLM. In Computational and Systems Neuroscience (COSYNE), 2021.
 - Yuan Zhao, Josue Nassar and Il Memming Park. Real-time discovery of effective dynamics from streaming noisy neural observations. In Computational and Systems Neuroscience (COSYNE), 2020.
 - Josue Nassar, Scott Linderman, Yuan Zhao, M´onica Bugallo and Il Memming Park. Learning structured neural dynamics from single trial population recording. In 52nd Asilomar Conference on Signals, Systems and Computers, 2018.
 - Kathleen Esfahany, Isabel Siergiej, Yuan Zhao and Il Memming Park. Organization of neural population code in mouse visual system. In Computational and Systems Neuroscience (COSYNE), 2018.

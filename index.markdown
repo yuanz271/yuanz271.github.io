@@ -7,7 +7,7 @@
 
 # Yuan Zhao
 
-Machine Learning Research Scientist  
+Research Scientist  
 Machine Learning Team  
 Functional Magnetic Resonance Imaging Facility  
 National Institute of Mental Health (NIMH)  
@@ -21,9 +21,9 @@ Bethesda, MD
 - Machine learning and time series modeling
 
 
-## Experiences
+## Work Experiences
 
-- Machine Learning Research Scientist  
+- Research Scientist  
 Aug 2021 - present  
 National Institute of Mental Health (NIMH)  
 Bethesda, MD
@@ -31,14 +31,6 @@ Bethesda, MD
 Aug 2016 - Aug 2021  
 Stony Brook University  
 Stony Brook, NY  
-- Research Assistant  
-Aug 2015 - Aug 2016  
-Stony Brook University  
-Stony Brook, NY  
-- Teaching Assistant  
-Aug 2012 - May 2014  
-Stony Brook University  
-Stony Brook, NY
 
 ## Education
 
@@ -58,19 +50,10 @@ China University of Mining and Technology, Xuzhou, China, 2005
 
 ## Publications
 
-### In Preparation
-
-- Aaron J. Levi, Yuan Zhao, Il Memming Park and Alex C. Huk. Sensory and choice responses in MT distinct from motion encoding.
-- Josue Nassar, Yuan Zhao, Ian D. Jordan, Sima Mofakham, Charles Mikell III and Il Memming Park. Escape-the-Maze: maximizing exploration in unknown environments. 
-- Matthew Dowling, Yuan Zhao and Il Memming Park. Nonparametric autoregressive point process. 
-- Logan Becker, Yuan Zhao and Il Memming Park. The linear-nonlinear Weibull model.
-
-### Under Review
-
-- Yuan Zhao, Josue Nassar, Ian Jordan, M\'onica Bugallo and Il Memming Park. Streaming Variational Monte Carlo. (under review, IEEE Transactions on Pattern Analysis and Machine Intelligence)
-
 ### Peer-reviewed Papers
-
+- Aaron J. Levi, Yuan Zhao, Il Memming Park and Alex C. Huk. Sensory and choice responses in MT distinct from motion encoding. Journal of Neuroscience, in press.
+- Matthew Dowling, Yuan Zhao, Il Memming Park. Real-time variational method for learning neural trajectory and its dynamics. ICLR, 2023.
+- Yuan Zhao, Josue Nassar, Ian Jordan, M\'onica Bugallo and Il Memming Park. Streaming Variational Monte Carlo. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023.
 - Diego M. Arribas, Yuan Zhao and Il Memming Park. 
 Rescuing neural spike train models from bad MLE. in Advances in Neural Information Processing Systems 33 pre-proceedings (NeurIPS 2020).
 - Yuan Zhao and Il Memming Park. 
@@ -102,7 +85,7 @@ Fetal and Pediatric Pathology, Informa UK Limited, 2016, 35, 299-306
 Traumatic brain injury and bipolar psychosis in the genomic psychiatry cohort American Journal of Medical Genetics Part B: Neuropsychiatric Genetics, Wiley-Blackwell, 2015, 171, 506-512 
 
 ### Conference Abstracts
-
+- Matthew Dowling, Yuan Zhao, Il Memming Park. The Exponential Family Variational Kalman Filter for Real-time Neural Dynamics. In Computational and Systems Neuroscience (COSYNE), 2023.
 - Yuan Zhao, Josue Nassar and Il Memming Park. Real-time discovery of effective dynamics from streaming noisy neural observations. In Computational and Systems Neuroscience (COSYNE), 2020.
 - Josue Nassar, Scott Linderman, Yuan Zhao, M´onica Bugallo and Il Memming Park. Learning structured neural dynamics from single trial population recording. In 52nd Asilomar Conference on Signals, Systems and Computers, 2018.
 - Kathleen Esfahany, Isabel Siergiej, Yuan Zhao and Il Memming Park. Organization of neural population code in mouse visual system. In Computational and Systems Neuroscience (COSYNE), 2018.

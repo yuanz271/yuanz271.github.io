@@ -5,8 +5,6 @@
 # layout: home
 ---
 
-# Yuan Zhao
-
 Research Scientist  
 Machine Learning Team  
 Functional Magnetic Resonance Imaging Facility  

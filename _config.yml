@@ -41,7 +41,7 @@ logo:                  /assets/img/profile.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                Yuan Zhao
-  email:               <yuanz271@gmail.com>
+  # email:               <yuanz271@gmail.com>
   # Used by `jekyll-seo-tag`:
   twitter:             yuanz271
 
@@ -55,8 +55,8 @@ menu:
     url:               /#publications
   - title:             CONTACT
     url:               /#contact-me
-  - title:             RESUME
-    url:               /assets/files/resume.pdf
+  # - title:             RESUME
+  #   url:               /assets/files/resume.pdf
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..

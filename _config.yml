@@ -24,11 +24,11 @@ title:                 Yuan Zhao
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Personal Website of Yuan Zhao - Research Scientist in the Machine Learning Team at NIMH.
+  Yuan Zhao - Research Scientist @ NIMH.
 
 # A shorter description for the sidebar.
 tagline: |
-  Computational Neuroscientist
+  computational neuroscientist
 
 # A list of keywords for your blog
 keywords:              [Yuan, Zhao, NIMH]

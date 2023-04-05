@@ -49,7 +49,7 @@ China University of Mining and Technology, Xuzhou, China, 2005
 ## Publications
 
 ### Peer-reviewed Papers
-- Aaron J. Levi, Yuan Zhao, Il Memming Park and Alex C. Huk. Sensory and choice responses in MT distinct from motion encoding. Journal of Neuroscience, in press.
+- Aaron J. Levi, Yuan Zhao, Il Memming Park and Alex C. Huk. Sensory and choice responses in MT distinct from motion encoding. Journal of Neuroscience, 2023.
 - Matthew Dowling, Yuan Zhao, Il Memming Park. Real-time variational method for learning neural trajectory and its dynamics. ICLR, 2023.
 - Yuan Zhao, Josue Nassar, Ian Jordan, M\'onica Bugallo and Il Memming Park. Streaming Variational Monte Carlo. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022.
 - Diego M. Arribas, Yuan Zhao and Il Memming Park. 

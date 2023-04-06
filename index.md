@@ -25,7 +25,7 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(35, 95, 115)" id="about">About Me </h2>
 
-* Research Scientist in the [Machine Learning Team](https://cmn.nimh.nih.gov/mlt){:target="_blank"} at the National Institute of Mental Health. 
+* Research Scientist in the [Machine Learning Team](https://cmn.nimh.nih.gov/mlt){:target="_blank"} at National Institute of Mental Health. 
 * Scientific Advisory Board at [RyvivyR Inc.](https://ryvivyr.com/){:target="_blank"}
 
 <div class="body-social sidebar-social">
@@ -39,7 +39,7 @@ hide_description: true
 ---
 <h2 class="h1" style="color: rgb(35, 95, 115)" id="research">Research </h2>
 
-  * Computational neuroscience: information processing in the brain.
+  * Information processing in the brain.
   * Neural code, computation, dynamics and noise.
   * Statistical and information-theoretic methods for neural signal analysis.
   * Machine learning and time series modeling.

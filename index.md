@@ -45,7 +45,7 @@ hide_description: true
   * Machine learning and time series modeling.
 
 ---
-<h2 class="h1" style="color: rgb(35, 95, 115)" id="publications">Selected Publications </h2>
+<h2 class="h1" style="color: rgb(35, 95, 115)" id="publications">Publications </h2>
   
 <h3 class="h2">Journal Articles</h3>
 

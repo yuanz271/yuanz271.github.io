@@ -47,7 +47,7 @@ hide_description: true
 ---
 <h2 class="h1" style="color: rgb(35, 95, 115)" id="publications">Publications </h2>
   
-<h3 class="h2">Journal Articles</h3>
+<h3 class="h2">Journal Papers</h3>
 
 * Aaron J. Levi*, Yuan Zhao*, Il Memming Park, Alex C. Huk. [Sensory and choice responses in MT distinct from motion encoding](https://doi.org/10.1523/JNEUROSCI.0267-22.2023){:target="_blank"}. Journal of Neuroscience, 2023. (co-first author, featured)
 

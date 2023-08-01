@@ -64,7 +64,7 @@ hide_description: true
 
 <h3 class="h2">Peer-reviewed Conference Papers</h3>
 
-* Matthew Dowling, Yuan Zhao, Il Memming Park. [Linear time GPs for inferring latent trajectories from neural spike trains](https://arxiv.org/abs/2306.01802){:target="_blank"}. The Fortieth International Conference on Machine Learning (ICML), 2023. (accepted)
+* Matthew Dowling, Yuan Zhao, Il Memming Park. [Linear time GPs for inferring latent trajectories from neural spike trains](https://openreview.net/forum?id=1hWB5XEUMa){:target="_blank"}. The Fortieth International Conference on Machine Learning (ICML), 2023.
 
 * Matthew Dowling, Yuan Zhao, Il Memming Park. [Real-time variational method for learning neural trajectory and its dynamics](https://openreview.net/forum?id=M_MvkWgQSt){:target="_blank"}. The Eleventh International Conference on Learning Representations (ICLR), 2023. (top 25%, spotlight)
 

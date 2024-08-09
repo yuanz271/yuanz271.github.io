@@ -25,7 +25,7 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(35, 95, 115)" id="about">About Me </h2>
 
-* Research Scientist in the [Machine Learning Team](https://cmn.nimh.nih.gov/mlt){:target="_blank"} at National Institute of Mental Health. 
+* Research Scientist in the [Machine Learning Core](https://cmn.nimh.nih.gov/mlt){:target="_blank"} at National Institute of Mental Health. 
 * Scientific Advisory Board at [RyvivyR Inc.](https://ryvivyr.com/){:target="_blank"}
 
 <div class="body-social sidebar-social">
